@@ -49,11 +49,14 @@ QSkill-Login-Form/
 3. Open index.html using Live Server.
 4. Test the login form.
 
-Internship
+## Internship
+
 QSkill Internship
 
-Slab
+## Slab
+
 Slab 1 - Basic Web Development
 
-Author
+## Author
+
 Shreyash Sahay
